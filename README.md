@@ -81,7 +81,6 @@ Line : knwfone
 ### [ผลลัพธ์ค่า MaxMin](https://github.com/kanokwanfpp/tot/blob/master/tot.PNG)<br></br>
 ### งานมอบหมายที่ 4
 ### [จุดผิด 10 โปรแกรม](https://github.com/kanokwanfpp/While/blob/master/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1.pdf)
-/br>
 
 ### งานมอบหมายที่ 5
 ### [อาเรย์](https://github.com/kanokwanfpp/maxmin-java/blob/master/J0003.pdf) 
