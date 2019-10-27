@@ -25,7 +25,7 @@
 Line : knwfone
 
 
-### [Javainfo]()
+### [Javainfo](https://github.com/kanokwanfpp/cpsc462/blob/master/java1.pdf)
 ### 36 pyramid
 <a href="https://github.com/kanokwanfpp/Pyramid_Java/blob/master/fon1.java" class="button">pyramid01</a>
 <a href="https://github.com/kanokwanfpp/Pyramid_Java/blob/master/fon2.java" class="button">pyramid02</a>
