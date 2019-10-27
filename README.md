@@ -4,35 +4,25 @@
 <body>
     <div class="w3-container">
         <br /> <br /> <br /> 
-  <img src="fearn.jpg" class="w3-round-xxlarge" w3-center style="width:50%">
+  <img src="fon.png.jpg" class="w3-round-xxlarge" w3-center style="width:50%">
 </div>
 </body>
 </html>
 
 
-## Welcome to Profile Pages
+## Welcome to Profile Kanokwan
 
-ชื่อ-สกุล : นางสาว สุวัจนีย์ ปัญญาภู
-ชื่อเล่น : ใบเฟิร์น
-อายุ : 20 ปี
+ชื่อ-สกุล : นางสาว1กนกวรรณ ฝีปากเพราะ
+ชื่อเล่น : ฝน
+เคยศึกษาที่โรงเรียนเชียงกลาง"ประชาัฒนา" จังหวัดน่าน
 ปัจจุบันศึกษาอยู่ที่มหาวิทยาลัยเนชั่น
 คณะบริหารธุรกิจและรัฐประศาสนศาสตร์
 สาขาวิทยาการคอมพิวเตอร์ ชั้นปีที่ 3
-วัน/เดือน/ปี เกิด : 8 กันยายน 2541
-
-น้ำหนัก ส่วนสูง ปัจจุบัน : 39 กิโลกรัม ส่วนสูง 159 เซนติเมตร
-
-วิชาที่ชอบ : ภาษาอังกฤษ วิทยาศาสตร์ คอมพิวเตอร์
-
-สีที่ชอบ : สีขาว สีดำ สีทอง สีเทา
-
-ที่อยู่ : 444 หมู่2 ถนนวชิราวุธดำเนิน ตำบลพระบาท อำเภอเมือง จังหวัดลำปาง 52000
+วัน/เดือน/ปี เกิด :10 เมษายน 2541
 
 ติดต่อ
-
-เบอร์โทร : 0987646992
-
-Line : Fafearn89.
+เE-mail : kanokwanpff@gmail.com
+Line : knwfone
 
 ### 36 pyramid
 <a href="https://github.com/suwatjanee005/php_pyramid/blob/master/fearn_01.php" class="button">pyramid01</a>
