@@ -86,3 +86,8 @@ Line : knwfone
 ### [อาเรย์](https://github.com/kanokwanfpp/maxmin-java/blob/master/J0003.pdf) 
 
 ### [Midtren](https://github.com/kanokwanfpp/cpsc462/blob/master/java.pdf)
+
+### Data
+
+
+### Print
