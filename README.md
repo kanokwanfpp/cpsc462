@@ -78,7 +78,7 @@ Line : knwfone
 ### [การประกาศค่าตัวแปร](https://github.com/kanokwanfpp/Translator/blob/master/fon.java)
 ### [ผลลัพธ์การประกาศค่าตัวแปร](https://github.com/kanokwanfpp/Translator/blob/master/java1.PNG)
 ### [MaxMin](https://github.com/kanokwanfpp/tot/blob/master/fone.java)
-### [ผลลัพธ์ค่า MaxMin](https://github.com/kanokwanfpp/tot/blob/master/tot.PNG)<br></br>
+### [ผลลัพธ์ค่า MaxMin](https://github.com/kanokwanfpp/tot/blob/master/tot.PNG)
 ### งานมอบหมายที่ 4
 ### [จุดผิด 10 โปรแกรม](https://github.com/kanokwanfpp/While/blob/master/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1.pdf)
 
