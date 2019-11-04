@@ -88,6 +88,15 @@ Line : knwfone
 ### [Midtren](https://github.com/kanokwanfpp/cpsc462/blob/master/java.pdf)
 
 ### Data
+<a href="https://github.com/kanokwanfpp/da/blob/master/data_categories.txt" class="button">categories</a>
+<a href="https://github.com/kanokwanfpp/da/blob/master/data_customers.txt" class="button">customers</a>
+<a href="https://github.com/kanokwanfpp/da/blob/master/data_employees.txt" class="button">employees</a>
+<a href="https://github.com/kanokwanfpp/da/blob/master/data_orders.txt" class="button">orders</a>
+<a href="https://github.com/kanokwanfpp/da/blob/master/data_ordersde.txt" class="button">ordersde</a>
+<a href="https://github.com/kanokwanfpp/da/blob/master/data_products.txt" class="button">products</a>
+<a href="https://github.com/kanokwanfpp/da/blob/master/data_shippers.txt" class="button">shippers</a>
+<a href="https://github.com/kanokwanfpp/da/blob/master/data_suppliers.txt" class="button">suppliers</a>
+
 <a href="https://github.com/kanokwanfpp/da" class="button">DATA_ALL</a>
 
 ### Print
