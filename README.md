@@ -100,4 +100,13 @@ Line : knwfone
 <a href="https://github.com/kanokwanfpp/da" class="button">DATA_ALL</a>
 
 ### Print
+<a href="https://github.com/kanokwanfpp/print/blob/master/print_categories.java" class="button">print_categories</a>
+<a href="https://github.com/kanokwanfpp/print/blob/master/print_customers.java" class="button">print_customers</a>
+<a href="https://github.com/kanokwanfpp/print/blob/master/print_employees.java" class="button">print_employees</a>
+<a href="https://github.com/kanokwanfpp/print/blob/master/print_orders.java" class="button">print_orders</a>
+<a href="https://github.com/kanokwanfpp/print/blob/master/print_ordersde.java" class="button">print_ordersde</a>
+<a href="https://github.com/kanokwanfpp/print/blob/master/print_products.java" class="button">print_products</a>
+<a href="https://github.com/kanokwanfpp/print/blob/master/print_shippers.java" class="button">print_shippers</a>
+<a href="https://github.com/kanokwanfpp/print/blob/master/print_suppliers.java" class="button">print_suppliers</a>
+
 <a href="https://github.com/kanokwanfpp/print" class="button">PRINT_ALL</a>
