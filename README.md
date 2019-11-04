@@ -21,7 +21,7 @@
 วัน/เดือน/ปี เกิด :10 เมษายน 2541
 
 ติดต่อ
-เE-mail : kanokwanpff@gmail.com
+E-mail : kanokwanpff@gmail.com
 Line : knwfone
 
 
@@ -89,24 +89,38 @@ Line : knwfone
 
 ### Data
 <a href="https://github.com/kanokwanfpp/da/blob/master/data_categories.txt" class="button">categories</a>
+
 <a href="https://github.com/kanokwanfpp/da/blob/master/data_customers.txt" class="button">customers</a>
+
 <a href="https://github.com/kanokwanfpp/da/blob/master/data_employees.txt" class="button">employees</a>
+
 <a href="https://github.com/kanokwanfpp/da/blob/master/data_orders.txt" class="button">orders</a>
+
 <a href="https://github.com/kanokwanfpp/da/blob/master/data_ordersde.txt" class="button">ordersde</a>
+
 <a href="https://github.com/kanokwanfpp/da/blob/master/data_products.txt" class="button">products</a>
+
 <a href="https://github.com/kanokwanfpp/da/blob/master/data_shippers.txt" class="button">shippers</a>
+
 <a href="https://github.com/kanokwanfpp/da/blob/master/data_suppliers.txt" class="button">suppliers</a>
 
 <a href="https://github.com/kanokwanfpp/da" class="button">DATA_ALL</a>
 
 ### Print
 <a href="https://github.com/kanokwanfpp/print/blob/master/print_categories.java" class="button">print_categories</a>
+
 <a href="https://github.com/kanokwanfpp/print/blob/master/print_customers.java" class="button">print_customers</a>
+
 <a href="https://github.com/kanokwanfpp/print/blob/master/print_employees.java" class="button">print_employees</a>
+
 <a href="https://github.com/kanokwanfpp/print/blob/master/print_orders.java" class="button">print_orders</a>
+
 <a href="https://github.com/kanokwanfpp/print/blob/master/print_ordersde.java" class="button">print_ordersde</a>
+
 <a href="https://github.com/kanokwanfpp/print/blob/master/print_products.java" class="button">print_products</a>
+
 <a href="https://github.com/kanokwanfpp/print/blob/master/print_shippers.java" class="button">print_shippers</a>
+
 <a href="https://github.com/kanokwanfpp/print/blob/master/print_suppliers.java" class="button">print_suppliers</a>
 
 <a href="https://github.com/kanokwanfpp/print" class="button">PRINT_ALL</a>
