@@ -88,6 +88,7 @@ Line : knwfone
 ### [Midtren](https://github.com/kanokwanfpp/cpsc462/blob/master/java.pdf)
 
 ### Data
-
+<a href="" class="button">DATA_ALL</a>
 
 ### Print
+<a href="" class="button">PRINT_ALL</a>
