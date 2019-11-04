@@ -91,4 +91,4 @@ Line : knwfone
 <a href="" class="button">DATA_ALL</a>
 
 ### Print
-<a href="" class="button">PRINT_ALL</a>
+<a href="https://github.com/kanokwanfpp/print" class="button">PRINT_ALL</a>
